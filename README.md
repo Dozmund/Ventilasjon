@@ -1,4 +1,4 @@
-# Ventilasjon - GitHub Pages-utkast
+# Ventilasjon - Work In Progress
 
 Statisk utkast til et lesegrensesnitt for ventilasjonswikien. Ingen byggesteg eller backend kreves.
 
